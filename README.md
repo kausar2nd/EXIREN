@@ -60,8 +60,8 @@ EXIREN implements a three-stage detection pipeline:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/kausar2nd/Fifth_Node_BCOLBD25.git
-cd Fifth_Node_BCOLBD25
+git clone https://github.com/kausar2nd/EXIREN_Prototype.git
+cd EXIREN_Prototype
 ```
 
 ### Step 2: Install Python Dependencies
@@ -280,6 +280,3 @@ This project is part of research on "Reducing False Alarms in Fire Detection Sys
 ## Support
 
 For issues and questions, check the system log in the web interface or run the CLI version for detailed debugging information.
-
-
-
